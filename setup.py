@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'jjtools',
   packages = ['jjtools'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = open('./README.md','r').read(),
   license = open('./LICENCE.txt','r').read(),
   author = 'Joseph Darwin Jaramillo del Aguila',
