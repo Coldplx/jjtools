@@ -1,0 +1,8 @@
+# link del tutorial
+https://geekytheory.com/como-subir-tu-propio-paquete-a-pypi
+
+# Como leiminar tag:
+## local 
+git tag -d tagName
+## Romoto
+git push --delete origin tagName # ejemplo git push --delete origin 0.1
